@@ -1,0 +1,28 @@
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container .jumbotron{
+  background: red;
+  color: white;
+  text-align: center;
+}
+.jumbotron a{
+  background: yellow;
+  color: red;
+  border: 2px solid green;
+  margin: 2rem 5rem 0;
+}
+#specialp{
+  color: red;
+  text-align: center;
+  font-size: 38px;
+}
+table{
+  color: yellow;
+  background: red;
+  margin: auto;
+  font-size: 20px;
+}
